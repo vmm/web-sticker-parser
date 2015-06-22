@@ -30,9 +30,12 @@ the web project.
 
 /bin
  - a python script which reads the downloaded metadata and creates the javascript file
+
 /dist
  - compiled module javascript
+
 /downloads
  - folder where the sticker data gets downloaded
+ 
 /src
  - pre compiled javascript

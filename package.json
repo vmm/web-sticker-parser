@@ -1,0 +1,21 @@
+{
+  "name": "hdm-web-sticker-parser",
+  "version": "1.0.5",
+  "description": " Sticker parser",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Veli-Matti Mattila",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.5.2",
+    "gulp-download": "0.0.1",
+    "gulp-jshint": "^1.11.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-shell": "^0.4.2",
+    "gulp-uglify": "^1.2.0",
+    "gulp-unzip": "0.1.3"
+  }
+}
